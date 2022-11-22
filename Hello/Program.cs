@@ -11,6 +11,9 @@ namespace Hello
 
 
             Console.WriteLine("Hello third!");
+
+
+            Console.WriteLine("Hello third!");
         }
     }
 }
