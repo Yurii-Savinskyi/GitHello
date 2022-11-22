@@ -8,6 +8,9 @@ namespace Hello
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello twice!");
+
+
+            Console.WriteLine("Hello third!");
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ЮРА\\C#\\Hello\\Hello\\Hello.csproj": {}
+    "D:\\ЮРА\\C#\\GitHello\\GitHello\\Hello\\Hello.csproj": {}
   },
   "projects": {
-    "D:\\ЮРА\\C#\\Hello\\Hello\\Hello.csproj": {
+    "D:\\ЮРА\\C#\\GitHello\\GitHello\\Hello\\Hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ЮРА\\C#\\Hello\\Hello\\Hello.csproj",
+        "projectUniqueName": "D:\\ЮРА\\C#\\GitHello\\GitHello\\Hello\\Hello.csproj",
         "projectName": "Hello",
-        "projectPath": "D:\\ЮРА\\C#\\Hello\\Hello\\Hello.csproj",
+        "projectPath": "D:\\ЮРА\\C#\\GitHello\\GitHello\\Hello\\Hello.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\ЮРА\\C#\\Hello\\Hello\\obj\\",
+        "outputPath": "D:\\ЮРА\\C#\\GitHello\\GitHello\\Hello\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

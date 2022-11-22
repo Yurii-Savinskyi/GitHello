@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DXX0Kv87OyCo2RNXP6aW9RoP8k9I2WEG3yGCKEkGBHASfgMhW/QSYx2GU+2EoBmd4MCUECcS+dYqu2fx+o8GgQ==",
+  "dgSpecHash": "t8hRGXUflK734zoParD/C6M8Q4XLDPvI6RsHkqA0en7DNJXFbyO/9ChqJgBHvlTG/B+o/Mj2D9KRoXWhGj/AKg==",
   "success": true,
-  "projectFilePath": "D:\\ЮРА\\C#\\Hello\\Hello\\Hello.csproj",
+  "projectFilePath": "D:\\ЮРА\\C#\\GitHello\\GitHello\\Hello\\Hello.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
   ],
